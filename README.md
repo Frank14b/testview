@@ -18,3 +18,4 @@ need to run testserver to run the backend server.
   - angularjs
   - chartjs
   - socket.io
+  - geolocation api : https://api.ipgeolocation.io/ipgeo
