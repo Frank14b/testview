@@ -1,4 +1,5 @@
 # testview
+Download and install nodejs if it's done yet
 
 1. clone the project
 2. run: npm i to install
@@ -12,3 +13,8 @@ chart will show directly when project will be open
 datas is updated every 5 sec
 
 need to run testserver to run the backend server.
+
+#ressources 
+  - angularjs
+  - chartjs
+  - socket.io

@@ -65,13 +65,7 @@ export class AppComponent {
 
   showGraph(): void {
     // get graph data
-    this.showip = false;
-    
-    if (this.showg) {
-      this.showg = false;
-    } else {
-      this.showg = true;
-    }
+    // this.showip = false;
 
     this.ctx = this.canvasRef.nativeElement.getContext('2d');
     this.chart = new Chart(this.ctx, {
